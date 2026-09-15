@@ -1,9 +1,9 @@
-package priiiii;
+
 import java.util.Scanner;
-public class addition {
+public class distinctioncalculator {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
 		Scanner sc=new Scanner(System.in);
 System.out.println("Enter the no of student you want to check result");
 int N=sc.nextInt(); int i=1;int distinction=0; int firstclass=0;int secondclass=0;int fail=0;
