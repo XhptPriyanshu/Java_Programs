@@ -1,6 +1,6 @@
-package priiiii;
+
 import java.util.Scanner;
-public class addition {
+public class averageafelementsinarray {
 	
 
 	public static void main(String[] args) {
