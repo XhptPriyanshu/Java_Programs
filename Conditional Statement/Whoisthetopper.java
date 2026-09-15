@@ -1,6 +1,6 @@
-package Addition;
+
 import java.util.Scanner;
-public class Course {
+public class Whoisthetopper {
 
 	public static void main(String[] args) {
 		Scanner sc=new Scanner(System.in);
